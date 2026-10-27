@@ -15,17 +15,6 @@ Python: fundamentos de programação, manipulação de ficheiros, expressões re
 Git e GitHub: controlo de versões e fluxos de trabalho de desenvolvimento colaborativo.
 Fundamentos de Segurança: autenticação, autorização, hashing, encriptação e práticas de desenvolvimento seguro.
 Projetos
-1. Analisador de Logs (Log Analyzer)
-
-Uma ferramenta desenvolvida em Python que analisa ficheiros de registo fictícios, contabiliza erros, filtra eventos e gera relatórios.
-
-2. Notas sobre Tráfego de Rede (Network Traffic Notes)
-
-Experiências documentadas de análise de tráfego de rede gerado num ambiente controlado.
-
-3. API de Eventos de Segurança (Security Events API)
-
-Uma pequena API que permite receber, consultar e filtrar eventos de segurança fictícios.
 
 Objetivos
 Desenvolver competências técnicas através da prática.
